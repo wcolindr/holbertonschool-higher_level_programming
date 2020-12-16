@@ -2,7 +2,7 @@
 def multiple_returns(sentence):
     length = len(sentence)
     char = sentence[0]
-    if sentence == '':
+    if lenght == '':
         return None
     else:
         return length, char
