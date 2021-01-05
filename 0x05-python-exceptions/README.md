@@ -1,1 +1,1 @@
-Learning how to use exceptions in Python
+Learning how to use exceptions in Python.
